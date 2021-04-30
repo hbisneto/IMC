@@ -39,23 +39,34 @@ O programa obtém o nome do usuário, altura e peso (No Windows, é recomendado 
 
 ```
 Nome: IMC
-Versão: 1.0
+Versão: 1.1
 Criado por: Heitor Bisneto.
 Copyright © 2021 | Heitor Bisneto. All rights reserved.
 
+[IMC] - Em Execução...
+
 >> Qual o seu nome: 
-Heitor
+Bill Gates
 >> Insira a sua altura: 
-1.65
+1.70
 >> Insira o seu peso: 
-53
+64
 
->> Nome do Usuário: Heitor
->> Altura: 1.65m
->> Peso: 53Kgs
+>> Nome do Usuário: Steve Jobs
+>> Altura: 1.7m
+>> Peso: 64Kgs
 
->> O seu IMC é 19.4674012855831
+>> O seu IMC é 22.1453287197232
 >> Conclusão: Peso normal
 
->> Heitor, obrigado por participar do teste!
+>> Bill Gates, obrigado por participar do teste!
+```
+
+## Log de Atualização
+
+```
+Versão 1.1:
+- Implementação da classe "Copyright"
+- Implementação do nome do programa em execução
+- Pequenas alterações de texto
 ```
