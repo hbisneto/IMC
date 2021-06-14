@@ -52,7 +52,7 @@ Bill Gates
 >> Insira o seu peso: 
 64
 
->> Nome do Usuário: Steve Jobs
+>> Nome do Usuário: Bill Gates
 >> Altura: 1.7m
 >> Peso: 64Kgs
 
